@@ -21,6 +21,7 @@ The choice of models for analysis was linear regression models.
 ![permutation](https://github.com/natacasey/IMDb_Movie_Rating_Analysis/blob/master/_assets/permutation_test.PNG)
 
 ## Development
+OS - Windows 10 Home. 
 To complete this project Python libraries thinkstats and thinkplot among others were used. The analysis is based on the information from the book  ["Think Stats"](https://github.com/AllenDowney/ThinkStats2) by Allen B Downey.
 
 ## Project challenges
