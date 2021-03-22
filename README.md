@@ -1,4 +1,3 @@
-# IMDb Movie Rating Analysis
 ![IMDb](https://github.com/natacasey/IMDb_Movie_Rating_Analysis/blob/master/_assets/IMDb_project.jpg)
 
 ## Project description
