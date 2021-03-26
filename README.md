@@ -1,7 +1,7 @@
 ![IMDb](https://github.com/natacasey/IMDb_Movie_Rating_Analysis_with_Python/blob/master/_assets/movies_pic.jpg)
 
 ## Project description
-The focus of this project is the analysis of the movie ratings given by users of a movie database IMDb. 
+The focus of this project is the EDA analysis of the movie ratings given by users of a movie database IMDb. 
 Hypothesis tests were performed to discover the types of relationships between variables “gross”, “budget”, “votes”, “runtime” and the variable “score”. 
 The relationship of votes and score, runtime and score were found to be close to moderately significant positive linear.
 The relationships of gross and score, budget and score appeared to be very weak positive linear. Scatterplots and Least Squares Fit were used to support the analysis. 
