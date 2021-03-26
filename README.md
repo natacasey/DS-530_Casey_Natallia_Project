@@ -25,12 +25,12 @@ To complete this project Python libraries thinkstats and thinkplot among others 
 
 This analysis was problematic because of the changes in the sign of coefficients of the variables that have high VIF, and have correlation close to high. 
 The issue of multicollenearity was identified.
-Decision to interpret results for the models with the variables staying stable overall was made.
+The decision to interpret the results only of the models with the variables staying stable overall was made.
 
 ## Project Limitations
 
 The project has some limitations. Even though it provides results for effects of variables budget, gross, runtime and votes, it doesn’t explain other factors that could be influencing the outcome “scores”. 
-Considering performing the analysis of other variables from the data set can allow for discovery of additional factors influencing the outcome variable “score”.
+Considering performing the analysis of other variables from the data set can allow for the discovery of additional factors influencing the outcome variable “score”.
 Missing values significantly reduced the amount of observations available thus reducing the possibility of accounting for all of the information for the variables.
 Looking for the sources containing the information that was missing could potentially solve this issue. 
 
