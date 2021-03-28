@@ -8,9 +8,17 @@ The relationships of "gross" and "score", "budget" and "score" appeared to be ve
 Hypothesis of scores of horror movies being rated lower vs other genres of movies was tested with the help of CDFs, PMFs, and a chi-square test. 
 The choice of models for analysis was linear regression models. 
 
+## Data
+The dataset movies_dataset.csv could be found in the repository. 
+
 ## Development
+
 OS - Windows 10 Home. 
 To complete this project Python libraries thinkstats and thinkplot among others were used. The analysis is based on the information from the book  ["Think Stats"](https://github.com/AllenDowney/ThinkStats2) by Allen B Downey.
+
+## Documentation
+
+All of the documentation is stored in the docs folder. 
 
 ## Models 
 
